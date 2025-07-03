@@ -1,6 +1,6 @@
 # harness-gitops-workshop
 
-Important changes to the doc by Vishy Swaminathan. Testing the change again - 2nd july. changed CPU limits.
+Important changes to the doc by Vishy . Testing the change again - 2nd july. changed CPU limits.
 
 
 In this workshop, we'll use the Harness CI, CD, and GitOps modules to demonstrate an end-to-end software delivery process - from build to deployment following GitOps principles. 
